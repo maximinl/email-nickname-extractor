@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "d059c992-50a0-4640-8c96-30413cf79498",
+    "timestamp": "2025-06-27T17:47:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Q2 Portfolio Rebalance",
+    "body": "Hey Robert,\n\nJust finished the Q2 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nElizabeth"
+  },
+  {
+    "id": "9d33a887-d83f-4fc6-a05d-e626a14e3eee",
+    "timestamp": "2025-07-30T15:38:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Q2 Portfolio Rebalance",
+    "body": "Hey Liz,\n\nJust finished the Q1 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nChristopher"
+  },
+  {
+    "id": "1433dc2f-f617-4da7-9786-4b27bca267bf",
+    "timestamp": "2025-06-02T19:51:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Chris, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nRobert"
+  },
+  {
+    "id": "2e68102c-ec86-4092-8375-1340b1094b59",
+    "timestamp": "2025-06-24T13:06:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Will, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nJames"
+  },
+  {
+    "id": "b120b084-c428-490a-9388-4876ddcf1884",
+    "timestamp": "2025-09-26T15:07:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "subject": "Quick favor",
+    "body": "Hey Tomoko, could you pull the historical drawdown data for our EM sovereign book? Need it for the board deck by Thursday.\n\nAppreciate it!\nPriya"
+  },
+  {
+    "id": "2fef562e-5012-4ff5-ac2d-208d31be9307",
+    "timestamp": "2025-06-12T17:14:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Lizzie, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nWilliam"
+  },
+  {
+    "id": "2637db77-666e-431c-bb6d-11925f8e057f",
+    "timestamp": "2025-09-25T17:53:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Compliance training reminder",
+    "body": "Dear Elizabeth,\n\nThis is a reminder that the annual compliance training module is due by end of month. Please complete it at your earliest convenience.\n\nThank you,\nAlexander"
+  },
+  {
+    "id": "7b47e49c-ebad-4f6a-b688-19e653fb5b7a",
+    "timestamp": "2025-11-19T11:44:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "James! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nPriya"
+  },
+  {
+    "id": "d15abedc-508b-49c2-a172-482ade117afd",
+    "timestamp": "2025-09-27T13:17:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, James. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nElizabeth"
+  },
+  {
+    "id": "bf875699-0917-4ac1-b737-a9b032a73658",
+    "timestamp": "2025-09-11T11:04:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Kat, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nChristopher"
+  },
+  {
+    "id": "b2a6f8b5-08ec-4415-ae77-adafa73430e6",
+    "timestamp": "2025-11-12T14:09:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Q4 Portfolio Rebalance",
+    "body": "Hey Priya,\n\nJust finished the Q4 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nKatherine"
+  },
+  {
+    "id": "d799c15c-0032-4f43-bd97-017b893d1572",
+    "timestamp": "2025-10-28T13:23:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Q4 Portfolio Rebalance",
+    "body": "Hey James,\n\nJust finished the Q3 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nAlexander"
+  },
+  {
+    "id": "87c88b90-6a5b-4487-98c1-cdb296f5a397",
+    "timestamp": "2025-06-13T08:09:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, James. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nKatherine"
+  },
+  {
+    "id": "f6ac35c5-6805-4e31-bef4-8af599e1a2f2",
+    "timestamp": "2025-10-20T07:43:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Quick favor",
+    "body": "Hey Billy T, could you pull the historical drawdown data for our EM sovereign book? Need it for the board deck by Thursday.\n\nAppreciate it!\nJames"
+  },
+  {
+    "id": "c7100090-f0cb-46f1-9355-a226c190ff2e",
+    "timestamp": "2025-08-15T13:10:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Christopher, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nElizabeth"
+  },
+  {
+    "id": "59a90c70-f5ba-4b94-9635-3f2094ada1a8",
+    "timestamp": "2025-10-08T08:55:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "Robert \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nMargaret"
+  },
+  {
+    "id": "76f03808-66da-4d3e-9a8b-f7d81f935e86",
+    "timestamp": "2025-11-01T12:31:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, Chris. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nAlexander"
+  },
+  {
+    "id": "b4d92e75-1887-4954-917f-28c7494e9bc6",
+    "timestamp": "2025-06-15T10:56:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Elizabeth, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nRobert"
+  },
+  {
+    "id": "2c1364cb-cc27-42db-a000-94b9bb1653d1",
+    "timestamp": "2025-11-16T14:35:00",
+    "from": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Lizzie, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nTomoko"
+  },
+  {
+    "id": "51a4cb8e-34cc-400d-8a78-64019770f891",
+    "timestamp": "2025-09-11T17:41:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Sasha, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nJames"
+  },
+  {
+    "id": "85af0052-e492-4425-a5a5-d5d9bc0a18d0",
+    "timestamp": "2025-07-28T08:21:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Margaret, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nPriya"
+  },
+  {
+    "id": "8b1b53fc-4bb9-4bca-9da6-88a8ea49bfca",
+    "timestamp": "2025-07-29T08:57:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Q1 Portfolio Rebalance",
+    "body": "Hey Chris,\n\nJust finished the Q1 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nRobert"
+  },
+  {
+    "id": "a6ac136a-a251-47bd-96cc-147073ff6730",
+    "timestamp": "2025-11-19T14:13:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Compliance training reminder",
+    "body": "Dear Priya,\n\nThis is a reminder that the annual compliance training module is due by end of month. Please complete it at your earliest convenience.\n\nThank you,\nRobert"
+  },
+  {
+    "id": "265bcac1-5bc1-418e-b1f5-eeefaaaff223",
+    "timestamp": "2025-09-30T19:26:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "James \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nChristopher"
+  },
+  {
+    "id": "1425bbca-8f81-4f39-8d18-1570fa5fe0a1",
+    "timestamp": "2025-09-28T18:03:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, Lizzie. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nKatherine"
+  },
+  {
+    "id": "e90149ec-d24d-4a85-a194-b161bd89dfea",
+    "timestamp": "2025-07-19T15:28:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Bob, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nElizabeth"
+  },
+  {
+    "id": "c03efcd9-1698-41c3-a74b-b25dbcf040cc",
+    "timestamp": "2025-10-19T08:03:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Billy T, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nJames"
+  },
+  {
+    "id": "2e6dd559-4c45-4b82-9164-75c1aa1cf365",
+    "timestamp": "2025-09-13T14:30:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Robert, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nChristopher"
+  },
+  {
+    "id": "2ade6a6b-c2fc-42e4-96d6-1d4c5bd9619f",
+    "timestamp": "2025-09-08T11:59:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Re: Data request",
+    "body": "William,\n\nThe dataset you requested is now available in the shared drive. It covers all equity trades from 2020 to present. Let me know if you need the fixed income data as well.\n\nBest,\nKatherine"
+  },
+  {
+    "id": "6050ee7d-c7ba-45ac-bec3-8d2e21d3da1a",
+    "timestamp": "2025-07-26T07:37:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Sasha! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nMargaret"
+  },
+  {
+    "id": "40183caf-13a9-4069-9a76-990aff426440",
+    "timestamp": "2025-10-07T15:10:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Monthly performance report",
+    "body": "Hi Robert,\n\nPlease find attached the monthly performance attribution for your book. AUM is up 2.3% net of fees, outperforming the benchmark by 45bps.\n\nLet me know if you have questions.\n\nRegards,\nChristopher"
+  },
+  {
+    "id": "62d739ae-36df-4779-933d-93564a52e1f9",
+    "timestamp": "2025-09-12T08:56:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Chris, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nRobert"
+  },
+  {
+    "id": "cedeab30-7097-4693-8ce2-d7711870cdb6",
+    "timestamp": "2025-11-16T16:36:00",
+    "from": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Kat, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nTomoko"
+  },
+  {
+    "id": "401ccd61-dac2-4aa8-84bc-8533071c5a0b",
+    "timestamp": "2025-08-01T11:25:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Priya, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nChristopher"
+  },
+  {
+    "id": "19476e5c-3dd4-40f0-9d1c-f7592bceb121",
+    "timestamp": "2025-06-19T15:13:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Q1 Portfolio Rebalance",
+    "body": "Hey Alex,\n\nJust finished the Q4 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nJames"
+  },
+  {
+    "id": "b95fc1c6-e821-4998-9f73-ae2004d8da19",
+    "timestamp": "2025-08-12T09:28:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Sasha, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nChristopher"
+  },
+  {
+    "id": "0627e62e-94b1-4c92-b990-9fe63e9d26c3",
+    "timestamp": "2025-07-05T11:07:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "Alex \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nChristopher"
+  },
+  {
+    "id": "1eadf572-3835-483a-97ea-f4a59e14f75b",
+    "timestamp": "2025-07-23T17:40:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Chris, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nElizabeth"
+  },
+  {
+    "id": "2e5beee2-bdde-4bf7-8d22-16383454d65f",
+    "timestamp": "2025-06-12T07:21:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Chris, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nAlexander"
+  },
+  {
+    "id": "aa346eb9-61ef-4cb5-be43-0e8c2ed5345a",
+    "timestamp": "2025-06-29T08:56:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "Sasha \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nJames"
+  },
+  {
+    "id": "395a597e-40a7-491c-8da6-b31bb8a5ac24",
+    "timestamp": "2025-07-03T07:19:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Chris, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nJames"
+  },
+  {
+    "id": "3d54fbe4-4c63-4098-8218-322bd29a43e9",
+    "timestamp": "2025-08-30T19:35:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Q1 Portfolio Rebalance",
+    "body": "Hey Robert,\n\nJust finished the Q2 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nPriya"
+  },
+  {
+    "id": "ee3b2c0c-c449-4cc4-ab6b-4d173de7fa51",
+    "timestamp": "2025-09-14T07:11:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Q2 Portfolio Rebalance",
+    "body": "Hey James,\n\nJust finished the Q2 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nWilliam"
+  },
+  {
+    "id": "ce467075-5c8b-4108-8361-e094f954d213",
+    "timestamp": "2025-07-11T19:44:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "William \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nPriya"
+  },
+  {
+    "id": "165528e7-b2ec-4e5b-b573-b9f2ecd8612e",
+    "timestamp": "2025-09-26T12:19:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. William, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nElizabeth"
+  },
+  {
+    "id": "11ba692b-d9b5-4632-8a59-83772a513daf",
+    "timestamp": "2025-08-24T11:55:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "subject": "Monthly performance report",
+    "body": "Hi Tomoko,\n\nPlease find attached the monthly performance attribution for your book. AUM is up 2.3% net of fees, outperforming the benchmark by 45bps.\n\nLet me know if you have questions.\n\nRegards,\nKatherine"
+  },
+  {
+    "id": "0b18a025-146e-4894-98cf-1e95cd02c1cb",
+    "timestamp": "2025-06-30T11:11:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "Sasha \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nElizabeth"
+  },
+  {
+    "id": "1af606bc-cc25-41b1-aa91-d0193139fe93",
+    "timestamp": "2025-11-03T15:07:00",
+    "from": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, Sasha. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nTomoko"
+  },
+  {
+    "id": "d4133130-812e-45c0-882f-797be7f419b1",
+    "timestamp": "2025-09-19T08:42:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Q3 Portfolio Rebalance",
+    "body": "Hey Kat,\n\nJust finished the Q2 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nWilliam"
+  },
+  {
+    "id": "5178f233-cbcb-4408-bffb-6ed7ce8ef57b",
+    "timestamp": "2025-10-08T11:42:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. Tomoko, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nPriya"
+  },
+  {
+    "id": "8d6d4265-b801-4578-ac9b-6f9b41ed678c",
+    "timestamp": "2025-07-20T13:42:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Priya, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nWilliam"
+  },
+  {
+    "id": "9f2fb2d8-6788-4488-9405-12407784777a",
+    "timestamp": "2025-10-19T07:19:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Quick favor",
+    "body": "Hey James, could you pull the historical drawdown data for our EM sovereign book? Need it for the board deck by Thursday.\n\nAppreciate it!\nWilliam"
+  },
+  {
+    "id": "21946f81-1307-4ed2-a8d8-7f2525070942",
+    "timestamp": "2025-11-20T10:32:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. Kat, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nAlexander"
+  },
+  {
+    "id": "8a5f2429-2ced-454d-88e3-89facec9b26d",
+    "timestamp": "2025-10-10T17:40:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. James, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nMargaret"
+  },
+  {
+    "id": "00889500-fbf7-4c47-879f-53e2168bcf91",
+    "timestamp": "2025-07-28T19:12:00",
+    "from": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Compliance training reminder",
+    "body": "Dear Priya,\n\nThis is a reminder that the annual compliance training module is due by end of month. Please complete it at your earliest convenience.\n\nThank you,\nTomoko"
+  },
+  {
+    "id": "00793831-aa65-4e04-b390-83e210e083b7",
+    "timestamp": "2025-09-15T17:36:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Bob, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nJames"
+  },
+  {
+    "id": "ed9301c9-33e3-49ce-85b2-6d5b2aaafc92",
+    "timestamp": "2025-09-17T10:11:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Will! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nKatherine"
+  },
+  {
+    "id": "74319242-b7da-4d57-9eb6-c720990d2e66",
+    "timestamp": "2025-09-27T17:33:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Maggie, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nChristopher"
+  },
+  {
+    "id": "8ede8d03-97ac-4628-b176-39ee9eec912b",
+    "timestamp": "2025-10-19T14:57:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Priya, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nChristopher"
+  },
+  {
+    "id": "67bd9452-1c65-4814-92bd-97f609af40e2",
+    "timestamp": "2025-08-10T14:04:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Maggie, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nJames"
+  },
+  {
+    "id": "abe8c895-9040-40c2-b630-d8c92185362f",
+    "timestamp": "2025-07-09T10:24:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "Kat \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nAlexander"
+  },
+  {
+    "id": "a6bb08fe-2fe8-4598-b1fc-db012443d946",
+    "timestamp": "2025-06-16T10:53:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, Kat. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nJames"
+  },
+  {
+    "id": "c2f25855-22ed-44ab-919d-d43bddad8ce9",
+    "timestamp": "2025-10-01T07:22:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Tomoko, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nWilliam"
+  },
+  {
+    "id": "55fdabc8-eb09-48bc-856f-c01d9869ddee",
+    "timestamp": "2025-07-27T11:27:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. William, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nAlexander"
+  },
+  {
+    "id": "670a52bc-3083-46f4-a19d-170e4a97c256",
+    "timestamp": "2025-11-07T15:01:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Bob! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nMargaret"
+  },
+  {
+    "id": "fac48dbf-e37f-44da-b34b-7fc5d0cf73f6",
+    "timestamp": "2025-06-13T11:24:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Bob! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nWilliam"
+  },
+  {
+    "id": "8e490ea9-6e2d-4ab6-9257-512ce9745193",
+    "timestamp": "2025-08-04T08:30:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Quick favor",
+    "body": "Hey Kat, could you pull the historical drawdown data for our EM sovereign book? Need it for the board deck by Thursday.\n\nAppreciate it!\nPriya"
+  },
+  {
+    "id": "02d54d6d-bfbc-4870-af34-f15e10819721",
+    "timestamp": "2025-06-08T10:12:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Chris, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nRobert"
+  },
+  {
+    "id": "7335ca7d-b121-4290-8230-f7bf2b410ede",
+    "timestamp": "2025-11-19T08:36:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Q4 Portfolio Rebalance",
+    "body": "Hey James,\n\nJust finished the Q2 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nRobert"
+  },
+  {
+    "id": "a61414ec-ee8c-4737-a1a4-67ba414bd01a",
+    "timestamp": "2025-08-19T08:37:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Mags! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nKatherine"
+  },
+  {
+    "id": "5dbb058a-1a08-4d1e-b6e1-22f4acd560d8",
+    "timestamp": "2025-10-30T18:53:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Quick favor",
+    "body": "Hey Sasha, could you pull the historical drawdown data for our EM sovereign book? Need it for the board deck by Thursday.\n\nAppreciate it!\nRobert"
+  },
+  {
+    "id": "526c4f5f-474c-4756-ba32-c3e0527e4673",
+    "timestamp": "2025-08-28T15:27:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Lizzie, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nKatherine"
+  },
+  {
+    "id": "25192231-6523-4fbc-82c3-f7719b1836f5",
+    "timestamp": "2025-06-28T13:23:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "Q4 Portfolio Rebalance",
+    "body": "Hey Lizzie,\n\nJust finished the Q4 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nPriya"
+  },
+  {
+    "id": "e03fa78d-09be-487b-bb64-801935823afa",
+    "timestamp": "2025-11-05T19:58:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. James, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nMargaret"
+  },
+  {
+    "id": "4ff23dd3-79db-4d8a-9baf-b221d7b59ffb",
+    "timestamp": "2025-08-11T14:15:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, Mags. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nChristopher"
+  },
+  {
+    "id": "5b1becc4-e0c6-4f95-ae59-d5f97a53f9e5",
+    "timestamp": "2025-07-25T12:51:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, Billy T. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nMargaret"
+  },
+  {
+    "id": "aedf5333-50c4-4d23-b350-ff25b65895cc",
+    "timestamp": "2025-10-11T10:05:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Priya, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nAlexander"
+  },
+  {
+    "id": "dadb61f9-d3fd-432f-817f-91558a7d6969",
+    "timestamp": "2025-06-05T08:18:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. Will, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nKatherine"
+  },
+  {
+    "id": "03bd2df6-add7-4f66-aa23-9afb8fc56857",
+    "timestamp": "2025-10-20T15:22:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Billy T, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nKatherine"
+  },
+  {
+    "id": "db4a3687-1727-4f04-aaec-021073298867",
+    "timestamp": "2025-07-30T08:46:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Chris, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nWilliam"
+  },
+  {
+    "id": "cbba3326-294d-4c83-bbdb-b0077825657d",
+    "timestamp": "2025-07-26T18:30:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Compliance training reminder",
+    "body": "Dear Priya,\n\nThis is a reminder that the annual compliance training module is due by end of month. Please complete it at your earliest convenience.\n\nThank you,\nKatherine"
+  },
+  {
+    "id": "cef69ca5-e763-410b-8338-6afa029a0590",
+    "timestamp": "2025-09-01T09:19:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Chris, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nAlexander"
+  },
+  {
+    "id": "e40a8a8f-1b6e-4c37-b645-154685218500",
+    "timestamp": "2025-11-11T19:31:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Q2 Portfolio Rebalance",
+    "body": "Hey Chris,\n\nJust finished the Q3 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nRobert"
+  },
+  {
+    "id": "3547ebe1-fe0a-4aa4-9eec-be6aece03ab2",
+    "timestamp": "2025-07-18T07:16:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. Bob, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nElizabeth"
+  },
+  {
+    "id": "5b1c450e-92a8-44ce-8f9e-e46c7b9ed2bd",
+    "timestamp": "2025-10-26T17:43:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Elizabeth, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nMargaret"
+  },
+  {
+    "id": "a7699e35-686b-49a6-bdfc-521cd1b8b061",
+    "timestamp": "2025-08-03T08:35:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Re: Data request",
+    "body": "James,\n\nThe dataset you requested is now available in the shared drive. It covers all equity trades from 2020 to present. Let me know if you need the fixed income data as well.\n\nBest,\nRobert"
+  },
+  {
+    "id": "6d5426c5-4b6b-41f7-98d7-b7ff5548c2b1",
+    "timestamp": "2025-08-16T16:27:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Katherine, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nWilliam"
+  },
+  {
+    "id": "ad38a414-4a21-4001-8046-4712c0617dd4",
+    "timestamp": "2025-11-17T08:10:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Bobby, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nAlexander"
+  },
+  {
+    "id": "aa94942a-581d-4b72-9bbf-b48320915055",
+    "timestamp": "2025-06-01T13:28:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Great call today",
+    "body": "Nice work on the Meridian pitch today, James. The client was clearly impressed with the factor analysis. I think we're in a strong position for the mandate.\n\nLet's debrief tomorrow morning.\n\nBest,\nKatherine"
+  },
+  {
+    "id": "be6e96c5-5ce5-4704-a606-2553eefd8b03",
+    "timestamp": "2025-06-19T17:14:00",
+    "from": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Maggie, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nTomoko"
+  },
+  {
+    "id": "488d7c3d-6885-47f2-8d57-6ae6ba2bb3bf",
+    "timestamp": "2025-06-19T07:10:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Kat! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nAlexander"
+  },
+  {
+    "id": "11a500e9-55c0-43ef-aed0-b615133d5fb2",
+    "timestamp": "2025-11-24T11:44:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Tomoko, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nAlexander"
+  },
+  {
+    "id": "221a84ff-d5cf-4a42-b8fd-3b984a18eb10",
+    "timestamp": "2025-09-19T18:20:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. Sasha, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nWilliam"
+  },
+  {
+    "id": "2e6f171c-98e0-45e9-b2f2-c9edb77908e2",
+    "timestamp": "2025-10-26T07:48:00",
+    "from": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Alex, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nTomoko"
+  },
+  {
+    "id": "b8d3ba9b-d962-4023-a930-6438b85e560d",
+    "timestamp": "2025-11-10T14:05:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Mags, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nJames"
+  },
+  {
+    "id": "a0cc3318-a094-4821-a34d-f72ff876c99e",
+    "timestamp": "2025-11-19T08:54:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Priya, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nMargaret"
+  },
+  {
+    "id": "2e54fe4d-7b3e-4637-bf3f-fe723bd2aae0",
+    "timestamp": "2025-11-17T13:52:00",
+    "from": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Priya, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nJames"
+  },
+  {
+    "id": "ed35244c-e5f9-4453-bd69-d68d218b13ad",
+    "timestamp": "2025-09-12T15:52:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Bob, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nChristopher"
+  },
+  {
+    "id": "68a70474-4963-4bf4-926f-7303e19df6bb",
+    "timestamp": "2025-11-08T14:48:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Chris, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nRobert"
+  },
+  {
+    "id": "91759eca-a159-4947-8e5a-f30f23f15af8",
+    "timestamp": "2025-07-02T07:40:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Kat, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nRobert"
+  },
+  {
+    "id": "027d022d-669b-4fde-81de-947aa53e832b",
+    "timestamp": "2025-06-24T10:53:00",
+    "from": {
+      "name": "Tomoko Hayashi",
+      "email": "t.hayashi@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Katherine, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nTomoko"
+  },
+  {
+    "id": "fa464635-d129-4e74-8c01-9c981be04ec6",
+    "timestamp": "2025-08-14T15:45:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. Margaret, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nElizabeth"
+  },
+  {
+    "id": "89f60b0e-a3be-4f12-b80b-c73855a08c91",
+    "timestamp": "2025-10-20T09:24:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. William, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nAlexander"
+  },
+  {
+    "id": "bec4b4f4-3982-4d26-a72f-f1cd65b61d0e",
+    "timestamp": "2025-09-15T12:59:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "Re: Data request",
+    "body": "Christopher,\n\nThe dataset you requested is now available in the shared drive. It covers all equity trades from 2020 to present. Let me know if you need the fixed income data as well.\n\nBest,\nKatherine"
+  },
+  {
+    "id": "579937c8-54ee-4b60-b0e7-753b78db870c",
+    "timestamp": "2025-07-09T14:34:00",
+    "from": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Alexander, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nChristopher"
+  },
+  {
+    "id": "2ec821fa-76ff-411f-be2f-889a0b2abe0d",
+    "timestamp": "2025-08-22T10:44:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Priya! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nMargaret"
+  },
+  {
+    "id": "2c25a869-9236-4b05-bce6-b5faf8157aee",
+    "timestamp": "2025-11-28T19:24:00",
+    "from": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Q4 Portfolio Rebalance",
+    "body": "Hey Billy T,\n\nJust finished the Q3 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nKatherine"
+  },
+  {
+    "id": "93bf0c30-a6cf-4c76-939a-b9f9292f420c",
+    "timestamp": "2025-10-07T16:21:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "James Okonkwo",
+      "email": "james.okonkwo@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. James, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nWilliam"
+  },
+  {
+    "id": "60bd2889-06e1-4070-a327-2789a7dfcad6",
+    "timestamp": "2025-11-15T09:04:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Q4 Portfolio Rebalance",
+    "body": "Hey Mags,\n\nJust finished the Q2 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nElizabeth"
+  },
+  {
+    "id": "6548fd88-8397-4d39-bc26-0fecb14c4338",
+    "timestamp": "2025-08-21T17:45:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "subject": "Re: Client meeting prep",
+    "body": "Thanks for the deck. One thing \u2014 Sasha, can you double check the Sharpe ratio calculations on slide 7? The numbers look off compared to what Bloomberg is showing.\n\nAlso, the Hendersons want to discuss their charitable trust allocation, so let's prep some tax-efficient options.\n\nMargaret"
+  },
+  {
+    "id": "2f271f4f-3aba-4ec9-9ba3-8fcb026ef922",
+    "timestamp": "2025-06-24T13:06:00",
+    "from": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "to": {
+      "name": "Christopher Delacroix",
+      "email": "c.delacroix@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Chris, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nMargaret"
+  },
+  {
+    "id": "08a37fee-e33c-4bb6-ac8e-f7aaf45b32ee",
+    "timestamp": "2025-06-15T11:22:00",
+    "from": {
+      "name": "Elizabeth Warren-Hughes",
+      "email": "e.warrenhughes@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Q3 Portfolio Rebalance",
+    "body": "Hey Mags,\n\nJust finished the Q1 rebalance analysis. We're overweight in tech by about 3.2% relative to benchmark. Recommending we trim NVDA and rotate into healthcare names.\n\nCan you take a look at the proposed allocations before EOD?\n\nCheers,\nElizabeth"
+  },
+  {
+    "id": "78d31f3d-c3f3-44a5-b78c-d42b26a71cdf",
+    "timestamp": "2025-07-15T08:39:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Billy T, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nPriya"
+  },
+  {
+    "id": "5a8a4cb9-6ef7-4542-8585-adfb2be59023",
+    "timestamp": "2025-09-26T11:42:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "FYI: Macro outlook changed",
+    "body": "Heads up team,\n\nThe Fed minutes just dropped and it's more hawkish than expected. Kat, this directly impacts your duration positioning \u2014 might want to revisit the 10Y allocation.\n\nI've attached the summary. Let's regroup at 3pm.\n\nBest,\nWilliam"
+  },
+  {
+    "id": "b9ad19ff-b4ca-483c-80fc-51358cebd374",
+    "timestamp": "2025-09-22T12:37:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Margaret Liu",
+      "email": "margaret.liu@capitaledge.com"
+    },
+    "subject": "Re: New hire onboarding",
+    "body": "Good idea. Margaret, since you went through onboarding most recently, would you mind being the buddy for the new analyst? They start on the 15th and will be sitting on your floor.\n\nThanks,\nRobert"
+  },
+  {
+    "id": "25dfcaf2-ce1a-4fd1-a4ad-e299202fd075",
+    "timestamp": "2025-10-02T08:15:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "subject": "Re: Re: Risk limits breach",
+    "body": "Understood. Billy T, I've already flagged this with compliance. The VaR breach was transient \u2014 driven by the options expiry. We're back within limits as of this morning.\n\nHappy to walk through the P&L attribution if needed.\n\nThanks,\nAlexander"
+  },
+  {
+    "id": "ba4188a8-c49a-404d-91b9-584cb1c3a734",
+    "timestamp": "2025-06-06T17:25:00",
+    "from": {
+      "name": "William Thornton III",
+      "email": "w.thornton@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Quick favor",
+    "body": "Hey Priya, could you pull the historical drawdown data for our EM sovereign book? Need it for the board deck by Thursday.\n\nAppreciate it!\nWilliam"
+  },
+  {
+    "id": "1016c91c-263a-415b-9041-15b33990164c",
+    "timestamp": "2025-07-29T16:51:00",
+    "from": {
+      "name": "Alexander Petrov",
+      "email": "a.petrov@capitaledge.com"
+    },
+    "to": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "subject": "Urgent: Position sizing",
+    "body": "We need to cut the Japan exposure by half before Tokyo open. Bobby, you have the authority on this book \u2014 can you action this ASAP? I'll explain on the call in 10 min.\n\nAlexander"
+  },
+  {
+    "id": "acdb94a3-a390-4b1c-a0f5-fd7e6e9cc550",
+    "timestamp": "2025-08-19T19:28:00",
+    "from": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "to": {
+      "name": "Katherine M\u00fcller",
+      "email": "k.muller@capitaledge.com"
+    },
+    "subject": "Lunch?",
+    "body": "Kat! Free for lunch today? The new place on Threadneedle St is supposed to be great. We can talk about the emerging markets thesis over food.\n\nLet me know,\nPriya"
+  },
+  {
+    "id": "24567808-b35a-49db-9524-d3a4e75ce0e1",
+    "timestamp": "2025-08-15T12:47:00",
+    "from": {
+      "name": "Robert Chen",
+      "email": "robert.chen@capitaledge.com"
+    },
+    "to": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@capitaledge.com"
+    },
+    "subject": "Weekend reading",
+    "body": "Priya \u2014 thought you'd find this interesting. Bridgewater just published their updated macro framework. Particularly relevant given your view on the yield curve inversion.\n\nLink attached.\n\nEnjoy,\nRobert"
+  }
+]

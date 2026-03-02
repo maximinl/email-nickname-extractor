@@ -23,6 +23,30 @@ Built as a proof of concept for information extraction over semi-structured corp
 | False Positives | 0 |
 | False Negatives | 0 |
 
+## Dataset Statistics
+
+The synthetic dataset is **controlled** (template-based) and intended for **repeatable evaluation** rather than perfect realism.
+
+```json
+{
+  "n_emails": 120,
+  "n_people": 10,
+  "email_length_tokens": {
+    "mean": 35.77,
+    "std": 5.43,
+    "min": 25,
+    "max": 46,
+    "median": 35.0,
+    "p10": 28,
+    "p90": 40
+  },
+  "graph_density": 0.933,
+  "type_token_ratio": 0.065,
+  "nickname_email_rate": 0.6
+}
+```
+
+
 ## Red Teaming
 
 Beyond clean data accuracy, the pipeline was tested against adversarial inputs and edge cases across 4 threat categories. Full notebook with outputs: [`red_teaming_executed.ipynb`](red_teaming_executed.ipynb)
