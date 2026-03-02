@@ -1,0 +1,178 @@
+{
+  "a.petrov@capitaledge.com": {
+    "formal_name": "Alexander Petrov",
+    "num_emails_analyzed": 28,
+    "extracted_nicknames": [
+      "Sasha",
+      "Alex"
+    ],
+    "evidence": [
+      {
+        "nickname": "Sasha",
+        "example": "Sasha, this directly impacts your duration positioning",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Alex",
+        "example": "Hey Alex, Just finished the Q4 rebalance analysis.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "c.delacroix@capitaledge.com": {
+    "formal_name": "Christopher Delacroix",
+    "num_emails_analyzed": 28,
+    "extracted_nicknames": [
+      "Chris"
+    ],
+    "evidence": [
+      {
+        "nickname": "Chris",
+        "example": "Chris, this directly impacts your duration positioning",
+        "confidence": "high"
+      }
+    ]
+  },
+  "e.warrenhughes@capitaledge.com": {
+    "formal_name": "Elizabeth Warren-Hughes",
+    "num_emails_analyzed": 20,
+    "extracted_nicknames": [
+      "Liz",
+      "Lizzie"
+    ],
+    "evidence": [
+      {
+        "nickname": "Liz",
+        "example": "Hey Liz, Just finished the Q1 rebalance analysis...",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Lizzie",
+        "example": "Lizzie, you have the authority on this book \u2014 can you action this ASAP?",
+        "confidence": "high"
+      }
+    ]
+  },
+  "james.okonkwo@capitaledge.com": {
+    "formal_name": "James Okonkwo",
+    "num_emails_analyzed": 25,
+    "extracted_nicknames": [],
+    "evidence": []
+  },
+  "k.muller@capitaledge.com": {
+    "formal_name": "Katherine M\u00fcller",
+    "num_emails_analyzed": 27,
+    "extracted_nicknames": [
+      "Kat"
+    ],
+    "evidence": [
+      {
+        "nickname": "Kat",
+        "example": "Kat, this directly impacts your duration positioning",
+        "confidence": "high"
+      }
+    ]
+  },
+  "margaret.liu@capitaledge.com": {
+    "formal_name": "Margaret Liu",
+    "num_emails_analyzed": 22,
+    "extracted_nicknames": [
+      "Maggie",
+      "Mags"
+    ],
+    "evidence": [
+      {
+        "nickname": "Maggie",
+        "example": "Maggie, can you double check the Sharpe ratio calculations on slide 7?",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Mags",
+        "example": "Nice work on the Meridian pitch today, Mags.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "priya.sharma@capitaledge.com": {
+    "formal_name": "Priya Sharma",
+    "num_emails_analyzed": 23,
+    "extracted_nicknames": [],
+    "evidence": []
+  },
+  "robert.chen@capitaledge.com": {
+    "formal_name": "Robert Chen",
+    "num_emails_analyzed": 27,
+    "extracted_nicknames": [
+      "Bob",
+      "Bobby"
+    ],
+    "evidence": [
+      {
+        "nickname": "Bob",
+        "example": "Bob, can you double check the Sharpe ratio calculations on slide 7?",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Bob",
+        "example": "Bob! Free for lunch today?",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Bob",
+        "example": "Bob, since you went through onboarding most recently...",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Bobby",
+        "example": "Bobby, this directly impacts your duration positioning...",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Bobby",
+        "example": "Bobby, you have the authority on this book...",
+        "confidence": "high"
+      }
+    ]
+  },
+  "t.hayashi@capitaledge.com": {
+    "formal_name": "Tomoko Hayashi",
+    "num_emails_analyzed": 12,
+    "extracted_nicknames": [],
+    "evidence": []
+  },
+  "w.thornton@capitaledge.com": {
+    "formal_name": "William Thornton III",
+    "num_emails_analyzed": 28,
+    "extracted_nicknames": [
+      "Billy T",
+      "Will"
+    ],
+    "evidence": [
+      {
+        "nickname": "Billy T",
+        "example": "Hey Billy T, could you pull the historical drawdown data...",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Billy T",
+        "example": "Nice work on the Meridian pitch today, Billy T.",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Billy T",
+        "example": "Billy T, you have the authority on this book...",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Will",
+        "example": "Will! Free for lunch today?",
+        "confidence": "high"
+      },
+      {
+        "nickname": "Will",
+        "example": "Will, since you went through onboarding most recently...",
+        "confidence": "high"
+      }
+    ]
+  }
+}
